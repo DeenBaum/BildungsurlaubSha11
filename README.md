@@ -1,1 +1,3 @@
 # BildungsurlaubSha11
+sha256sum mailabwben.zip 
+21e282eab68b8fc66e1c0ffbbae3f6d47c63075c71f5ef6eae4dc7cf79705c8c  mailabwben.zip
